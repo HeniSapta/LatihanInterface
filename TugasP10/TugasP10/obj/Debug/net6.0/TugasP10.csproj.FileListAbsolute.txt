@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\bin\Debug\net6.0\TugasP10.exe
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\bin\Debug\net6.0\TugasP10.deps.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\bin\Debug\net6.0\TugasP10.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\bin\Debug\net6.0\TugasP10.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\bin\Debug\net6.0\TugasP10.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\refint\TugasP10.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\TugasP10.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\TugasP10\TugasP10\obj\Debug\net6.0\ref\TugasP10.dll
